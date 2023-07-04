@@ -15,19 +15,17 @@ Experiência com as bases de dados:
 
 Interesses Estatísticos:
 - Estatística Espacial
-- Análise de Dados Multivariados
-  - Dados Não Supervisionados
-  - Análise de Correspôndia, Fatorial e de Cluster)
-- Modelos de Regressão 
+- Análise Multivariada
+- Análise de Regressão 
 
 Áreas de interesse:
 - Gestão Pública
 - Assistência Social
 - Planejamento Estratégico
 
-Ferramentas e Linguagens: R, Python, Google Data Studio, Power BI, Pacote Office, Google Workspace
+Ferramentas e Linguagens: R, Python, Google Data Studio, Power BI, Pacote Office, Google Workspace, 
 
-Experiência: Processo ETL; Apresentação de Dados, 
+Experiência: Processo ETL; Análise Exploratória de Dados, Power BI, Integração Web, Deploy via Machine Learning, Calculo de Indicadores, Planejamento Estratégico
 
 Softskills
 
