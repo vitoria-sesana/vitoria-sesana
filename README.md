@@ -1,6 +1,9 @@
-Vitória Sesana
+# Olá, sou Vitória Sesana **(Layout ainda em fase de testes)**
 
-Sou: uma jovem estudante de Estatística na Universidade Federal do Espírito Santo que acredita na Gestão Pública de Qualidade, Humanizada e baseada em fatos! Meus olhos brilham quando o assunto é sobre inovação, pesquisa, administração pública, tecnologia e estatística.
+ > Sou: uma jovem estudante de Estatística na Universidade Federal do Espírito Santo que acredita na Gestão Pública de Qualidade, Humanizada e baseada em fatos! Meus olhos brilham quando o assunto é sobre inovação, pesquisa, administração pública, tecnologia e estatística.
+
+&nbsp;
+
 
 Objetivo Profissional: Oferecer suporte na tomada de decisão, compreensão da realidade a partir dos dados, realização de análises e pesquisas aprofundadas, otimizar rotinas internas, estruturar programas e políticas públicas. 
 
@@ -27,6 +30,12 @@ Ferramentas e Linguagens: R, Python, Google Data Studio, Power BI, Pacote Office
 Experiência: Processo ETL; Apresentação de Dados, 
 
 Softskills
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virrotinha&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=virrotinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 Curiosidades: I'm a Bird-Watching
 
