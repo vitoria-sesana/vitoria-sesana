@@ -1,9 +1,11 @@
-# Olá, seja muito bem-vindo!🥰
+<div align="center">
+ <p><h1>Olá, seja muito bem-vindo! 🥰</h1></p>
+</div>
+<br />
 
  > Meu nome é Vitória Sesana, tenho 21 anos e sou estudante de Estatística na *Universidade Federal do Espírito Santo*. Acredito na gestão pública de qualidade, humanizada e baseada em fatos! Meus olhos brilham quando se trata de **inovação**, **pesquisa**, **administração pública**, **tecnologia**, **matemática** e **estatística**.
 
-## 
-O objetivo do meu perfil no github é alimenta-lo com os projetos e trabalhos acadêmicos que participei, dessa forma outras pessoas possam ter acesso e realizar acontribuições! Então sintam-se livres para dar a opnião de vocês. Pretendo realizar contribuições no repositório de outras pessoas também, mas não é meu foco no momento.
+<br />
 
 ## 🎯 Atualmente focada em:
 - Manusear base de dados públicas;
@@ -32,7 +34,7 @@ R, Python, SQL, Google Data Studio, Power BI, Office, Google Workspace, RMarkdow
 - Ferramentas de Gestão
   Airtable, Kanban, Slack
 
-
+<!---
 <p align="center">
     <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
     <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
@@ -40,7 +42,7 @@ R, Python, SQL, Google Data Studio, Power BI, Office, Google Workspace, RMarkdow
     <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
     <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
 </p>
-
+ --->
 
 ## Experiência: 
 Estruturação de processos ETL; Elaboração de Dashboards, Análise Exploratória de Dados, Power BI, Integração Web, Deploy via Shiny, Cálculo de Indicadores, Planejamento Estratégico, Elaboração de Relatórios,
