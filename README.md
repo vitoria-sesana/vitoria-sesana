@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Quarto-badge?style=for-the-badge&color=%233e79a1">
     <img src="https://img.shields.io/badge/SQL-badge?style=for-the-badge&color=%23db7432">
     <img src="https://img.shields.io/badge/Latex-badge?style=for-the-badge&color=%23008080">
+    <img src="https://img.shields.io/badge/Shiny-badge?style=for-the-badge&color=orange">
     <img src="https://img.shields.io/badge/Power%20BI-badge?style=for-the-badge&color=%23e9c500">
 </p>
 
