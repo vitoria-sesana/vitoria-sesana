@@ -39,6 +39,11 @@
     <a href="https://www.linkedin.com/in/vit%C3%B3ria-sesana-836035174/" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
     <a href="https://lattes.cnpq.br/0581379603381022" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Lattes-teste?style=for-the-badge&logo=Latts&logoColor=%23355f84&color=%23355f84"></a>
     <a href="https://docs.google.com/document/d/10uNNTiV1fGUZMio6Ya6vOz3HiEfIuCSgcscqKMtQRFY/edit?usp=sharing" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Curr%C3%ADculo-badge?style=for-the-badge&color=%23fefffe"></a>
+</p>
+
+#### Conbtato
+
+<p align="center">
      <a href="mailto:vitoriasesana11@gmail.com" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-vitoriasesana11@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriasesana11@gmail.com"></a>
 </p>
 
