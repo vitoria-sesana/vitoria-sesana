@@ -41,7 +41,7 @@
     <a href="https://docs.google.com/document/d/10uNNTiV1fGUZMio6Ya6vOz3HiEfIuCSgcscqKMtQRFY/edit?usp=sharing" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Curr%C3%ADculo-badge?style=for-the-badge&color=%23fefffe"></a>
 </p>
 
-#### Contato
+#### Contato:
 
 <p align="center">
      <a href="mailto:vitoriasesana11@gmail.com" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-vitoriasesana11@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriasesana11@gmail.com"></a>
