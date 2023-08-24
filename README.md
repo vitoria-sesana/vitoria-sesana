@@ -50,15 +50,15 @@
 ## 
 
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=virrotinha&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitoria-sesana&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virrotinha&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-sesana&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 
 
 <!---
 
-| <a href="https://github.com/virrotinha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=virrotinha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virrotinha&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/virrotinha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoria-sesan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-sesana&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p align="center">
