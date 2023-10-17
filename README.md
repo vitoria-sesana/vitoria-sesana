@@ -1,5 +1,5 @@
 <div align="center">
- <p><h1>Olá, seja muito bem-vindo(a) ao meu perfil! 🥰</h1></p>
+ <p><h1>Olá, seja muito bem-vindo(a) ao meu perfil! </h1></p>
 </div>
 <br />
 
