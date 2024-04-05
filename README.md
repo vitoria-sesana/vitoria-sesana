@@ -7,10 +7,9 @@
 
 <br />
 
-📈 **Interesses Acadêmicos/Pesquisa**: Estatística Espacial, Análise Multivariada, Análise de Regressão. 
+📈 **Interesses Acadêmicos/Pesquisa**: Estatística Espacial, Amostragem e Métodos Computacionais de Otimização. 
 
-📚 **Áreas de Interesse**: Gestão Pública, Gestão de Projetos, Assitência Social, Saúde e Segurança;
-
+📚 **Áreas de Interesse**: Gestão Pública, Logística e Gestão de Projetos.
 
 🔧 **Ferramentas e Linguagens**: 
 
