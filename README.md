@@ -3,7 +3,7 @@
 </div>
 <br />
 
- > Meu nome é Vitória Sesana, tenho 21 anos e sou estudante de Estatística na *Universidade Federal do Espírito Santo*. Acredito na gestão pública de qualidade, humanizada e baseada em fatos! Meus olhos brilham quando se trata de **inovação**, **pesquisa**, **administração pública** e **estatística**.
+ > Meu nome é Vitória Sesana, tenho 22 anos e sou estudante de Estatística na *Universidade Federal do Espírito Santo*. Acredito na gestão pública de qualidade, humanizada e baseada em fatos! Meus olhos brilham quando se trata de **inovação**, **pesquisa**, **administração pública** e **estatística**.
 
 <br />
 
