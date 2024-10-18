@@ -48,27 +48,22 @@
 
 ## 
 
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vitoria-sesana&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-sesana&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+<!--- Comentário: Aba status ------------------------------------
+ -->
+
+<p align = "center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=vitoria-sesana&show_icons=true&show=prs_merged&hide=issues&icon_color=000000&hide_border=true&text_color=555&rank_icon=github&card_width=200&theme=transparent"/>
+&nbsp;
+
+<img  height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-sesana&theme=transparent&layout=donut&hide=CSS,JavaScript,SCSS,jupyter%20notebook&hide_border=true"/>
+
 </p>
 
+## 
 
-<!---
 
-| <a href="https://github.com/virrotinha/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoria-sesan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-sesana&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<p align="center">
-    <img alt="R" src="https://img.shields.io/badge/R-badge?style=for-the-badge&color=%23265fb2">
-    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-</p>
- 
-## Experiência: 
-Estruturação de processos ETL; Elaboração de Dashboards, Análise Exploratória de Dados, Power BI, Integração Web, Deploy via Shiny, Cálculo de Indicadores, Planejamento Estratégico, Elaboração de Relatórios,
-
- --->
+<!--- Comentário: Imagens ------------------------------------
+como chamar: ![nome_imagem][nome_imagem]
+como salvar:  [nome_imagem]: link_imagem
+-->
