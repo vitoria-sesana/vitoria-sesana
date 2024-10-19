@@ -1,10 +1,13 @@
+
 <p align="center">
+ <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" border="0" width=200 alt="animated-line-image-0170" /></a>
+
  <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="120" /> 
+ <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" border="0" width=200 alt="animated-line-image-0170" /></a>
+
 </p>
 
-## 
 
-<br />
 
 First of all, my name is Vitória Sesana and I am currently an undergraduate student in statistics. **My goal is to become a data scientist**  in the next few years, as I believe that the good use of data has the power to improve any organizational environment.
 
@@ -15,6 +18,7 @@ I am currently looking for **challenging** and **innovative** workplaces that al
 - **Experiences in activities:** Data extraction, data manipulation, data visualization, data analysis, questionnaire and report creation, web development, tool integration.
 - **Some databases I've worked on:** CadÚnico, PNAD, CAGED, DATASUS, SIDRA. 
 - **Topics of interest:** Public management, survey, startups, innovation, statistical techniques, artificial intelligence, machine learning, big data.
+- **Professional characteristics**: punctuality, the more challenging the greater my engagement will be, I always seek to be aligned with the organization's objectives, I don't like to be complacent.
 
 <br />
 
