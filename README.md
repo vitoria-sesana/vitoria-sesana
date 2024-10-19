@@ -1,17 +1,26 @@
 <div align="center">
- <p><h1>Olá, seja muito bem-vindo(a) ao meu perfil! </h1></p>
+ <p><h1> hi! </h1></p>
 </div>
 <br />
 
- > Meu nome é Vitória Sesana, tenho 22 anos e sou estudante de Estatística na *Universidade Federal do Espírito Santo*. Acredito na gestão pública de qualidade, humanizada e baseada em fatos! Meus olhos brilham quando se trata de **inovação**, **pesquisa**, **administração pública** e **estatística**.
+
+First of all, my name is Vitória Sesana and I am currently an undergraduate student in statistics. **My goal is to become a data scientist**  in the next few years, as I believe that the good use of data has the power to improve any organizational environment. 
+
+My professional experience began in 2021, since then I have been participating in *junior companies, internships and research and extension projects*. I also try to improve my skills in a *self-taught* way and publishing some projects here. 
+
+I am currently looking for **challenging** and **innovative** workplaces that allow me to apply more sophisticated statistical techniques such as *prediction* and *classification* methods.
+
+- **Experiences in activities:** Data extraction, data manipulation, data visualization, data analysis, questionnaire and report creation, web development, tool integration.
+
+- **Some databases I've worked on:** CadÚnico, PNAD, CAGED, DATASUS, SIDRA.
+
+- **Topics of interest:** Public management, survey, startups, innovation, statistical techniques, artificial intelligence, machine learning, big data.
+
+- **Professional characteristics**: punctuality, the more challenging the greater my engagement will be, I always seek to be aligned with the organization's objectives, I don't like to be complacent.
 
 <br />
 
-📈 **Interesses Acadêmicos/Pesquisa**: Estatística Espacial, Amostragem e Métodos Computacionais de Otimização. 
-
-📚 **Áreas de Interesse**: Gestão Pública, Logística e Gestão de Projetos.
-
-🔧 **Ferramentas e Linguagens**: 
+🔧 **Tech Stack:**
 
 <p align="center">
     <img src="https://img.shields.io/badge/R-badge?style=for-the-badge&color=%23265fb2">
@@ -31,9 +40,6 @@
     <img src="https://img.shields.io/badge/R%20Studio-badge?style=for-the-badge&color=%239dadb8">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-badge?style=for-the-badge&color=%230176c7">
 </p>
-
-**Tech Stack:**
-
 
 **📑 Resumes:**
 <p align="center">
