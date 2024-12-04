@@ -79,7 +79,7 @@ I am currently looking for **challenging** and **innovative** workplaces that al
 </p>
 
 <!--- Comentário: Contador invisível de visualizações -------------------------------------
-mudar 'style=for-the-badge' quando tiver um razoável de views
+mudar 'style=for-the-badge' quando tiver um razoável de views ou 'pixel' para deixar invisível 
 --->
 
-![](https://komarev.com/ghpvc/?username=vitoria-sesana&color=green&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=vitoria-sesana&color=green&style=pixel)
