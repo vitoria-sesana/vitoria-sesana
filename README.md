@@ -73,6 +73,9 @@ I am currently looking for **challenging** and **innovative** workplaces that al
 </p>
 
 ##
+[![Vitoria's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitoria-sesana&bg_color=ffffff&color=000000&line=80b8f5&point=7a7a7a&area=true&hide_border=true&height=300&radius=0&custom_title=Vitoria's%20Contribution%20Graph&grid=false&days=25&area_color=80b8f5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
 
 <p align="center">
     𓆝 𓆟 𓆞 𓆝 𓆟
@@ -81,5 +84,7 @@ I am currently looking for **challenging** and **innovative** workplaces that al
 <!--- Comentário: Contador invisível de visualizações -------------------------------------
 mudar 'style=for-the-badge' quando tiver um razoável de views ou 'pixel' para deixar invisível 
 --->
+
+
 
 ![](https://komarev.com/ghpvc/?username=vitoria-sesana&color=green&style=pixel)
