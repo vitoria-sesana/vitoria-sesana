@@ -46,7 +46,7 @@ I am currently looking for **challenging** and **innovative** workplaces that al
 **📑 Resumes:**
 <p align="center">
     <a href="https://lattes.cnpq.br/0581379603381022" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Lattes-teste?style=for-the-badge&logo=Latts&logoColor=%23355f84&color=%23355f84"></a>
-    <a href="https://docs.google.com/document/d/10uNNTiV1fGUZMio6Ya6vOz3HiEfIuCSgcscqKMtQRFY/edit?usp=sharing" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Resume%20PDF-badge?style=for-the-badge&logo=Google%20Docs&color=white">
+    <a href="https://docs.google.com/document/d/10W3ae-y2IUV7q3EIV-1OfvG9AfwOH9ZAGOlJH6V2His/edit?usp=sharing" target="_blank"><img alt="Code" src="https://img.shields.io/badge/Resume%20PDF-badge?style=for-the-badge&logo=Google%20Docs&color=white">
 </p>
 
 
