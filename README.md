@@ -1,9 +1,7 @@
 
 <p align="center">
- <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" border="0" width=200 alt="animated-line-image-0170" /></a>
 
  <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="120" /> 
- <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" border="0" width=200 alt="animated-line-image-0170" /></a>
 
 </p>
 
@@ -55,7 +53,7 @@ I am currently looking for **challenging** and **innovative** workplaces that al
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vit%C3%B3ria-sesana-836035174/" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-     <a href="mailto:vitoriasesana11@gmail.com" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-vitoriasesana11@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriasesana11@gmail.com"></a>
+     <a href="mailto:vitoria.nj.sesana@gmail.com" target="_blank"><img alt="Code" src="https://img.shields.io/badge/vitoria.nj.sesana@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoria.nj.sesana@gmail.com"></a>
 </p>
 
 ## 
